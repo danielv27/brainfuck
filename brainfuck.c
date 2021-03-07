@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #define MEM_LEN 3000
 
+#Arman the great fam
+
 void except(FILE* file,char* source,int e){
   free(source);
   fclose(file);
